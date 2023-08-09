@@ -1,3 +1,5 @@
 Learn Kotlin
 Read Dune
-Go for a jog!
+Go for a jog.
+Walk the pups.
+Clean the yard.
